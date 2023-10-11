@@ -1,0 +1,4 @@
+/* posso selezionare l'elemento che attualmente è in PictureInPicture mode  */
+:picture-in-picture {
+  border: 2px solid red;
+}
